@@ -2,7 +2,7 @@
 
 # Hello-App-React-Fronted
 
-> This is Back-End API that is connected to the Front-End React UI. This app represents 1/2 (one half) of the full application required to properly work, so please make sure you connect it properly to the Front-End.
+> This is Front-End UI that is connected to the Back-End RoR API. This app represents 1/2 (one half) of the full application required to properly work, so please make sure you connect it properly to the Back-End.
 
 
 ## Link to the Backend
